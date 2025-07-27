@@ -1,4 +1,5 @@
 webScraper
+
 This repository contains a Python web scraper built using Selenium. Currently, it is configured to scrape product information (image URL, description, price, and company) from Alibaba's product search results page for "laptop" and save it to a CSV file.
 
 Features
